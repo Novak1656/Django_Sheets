@@ -27,8 +27,4 @@ POSTGRES_HOST_AUTH_METHOD=trust`
 cd sheets_proj
 docker-compose up -d --build
 ```
-4. Выполните сборку контейнера и запустите его коммандой
-```
-docker-compose up -d --build
-```
-5. Перейдите по адресу: http://127.0.0.1:8000/
+4. Перейдите по адресу: http://127.0.0.1:8000/
